@@ -5,7 +5,7 @@ This repository contains resources developed as part of CubeSat communication sy
 ## Contents
 
 ### Turnstile Antenna Simulations
-- ANSYS HFSS simulation files for a turnstile antenna integrated with a 1U CubeSat frame.
+- ANSYS HFSS (recently shifted to CST) simulation files for a turnstile antenna integrated with a 1U CubeSat frame.
 - Includes the complete simulation model used to analyze the antenna's radiation characteristics and performance.
 
 ### Link Budget Analysis

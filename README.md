@@ -1,4 +1,3 @@
-```markdown
 # CubeSat Communication System Resources
 
 This repository contains resources developed as part of CubeSat communication system design and testing. The files are organized into three main components:
@@ -16,4 +15,4 @@ This repository contains resources developed as part of CubeSat communication sy
 ### LoRa Communication Code
 - Arduino code for interfacing with a LoRa transceiver.
 - Implements packetization and depacketization of sample beacon data for communication testing.
-```
+
